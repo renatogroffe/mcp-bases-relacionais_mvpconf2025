@@ -11,3 +11,4 @@ Referências:
 - MCP para geração de dados fake para testes em uma base SQL Server: https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver
 - OWASP Top 10 for Large Language Model Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
 - MCP Servers no Visual Studio Code: https://code.visualstudio.com/docs/copilot/customization/mcp-servers
+- Mermaid - Diagramming and charting tool: https://mermaid.js.org/intro/
