@@ -1,9 +1,3 @@
-CREATE DATABASE BaseGeografica
-GO
-
-USE BaseGeografica
-GO
-
 CREATE TABLE dbo.Regioes(
 	IdRegiao int NOT NULL,
 	CodRegiao varchar(2) NOT NULL,
