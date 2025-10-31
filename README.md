@@ -34,3 +34,13 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 Esta palestra foi realizada em conjunto com meu amigo **Murilo Beltrame (DEVPIRA)**.
 
 Deixamos aqui nossos agradecimentos à organização do MVP Conf,  ao meu amigo **Hugo Venturini (Microsoft MVP)** que coordenou a trilha de Data Platform e participantes por todo o apoio em nossa palestra.
+
+---
+
+![Renato e Murilo palestrando 1](img/52.jpg)
+
+![Renato e Murilo palestrando 2](img/16.jpg)
+
+![Renato e Murilo palestrando 3](img/21.jpg)
+
+![Renato e Murilo palestrando 4](img/30.jpg)
