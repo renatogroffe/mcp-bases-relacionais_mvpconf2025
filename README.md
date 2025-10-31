@@ -15,6 +15,8 @@ Referências:
 
 ---
 
+## Informações sobre o evento
+
 Título da apresentação: **MCP + Bases Relacionais: gerenciando e explorando seus dados com Inteligência Artificial**
 
 Data: **25/10/2025 (sábado)**
